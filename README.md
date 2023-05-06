@@ -1,1 +1,2 @@
 # StorageCalculator
+Introducing a storage size calculator that helps you determine the best storage option based on your requirements. The calculator takes into consideration your specific needs and recommends the ideal storage size that fits you best. This tool offers a simple and efficient way to make informed decisions about your storage needs, ensuring you have enough space to store your important data without overspending on unnecessary storage capacity.
